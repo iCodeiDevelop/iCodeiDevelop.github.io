@@ -195,7 +195,8 @@ body {
 
 #main-content-middle-right-left{
     float: left;
-	width: 59.5%;
+    width: 59.5%;
+    padding: 2px 2px 0 0;	
 
 }
 #main-content-middle-right-right {
