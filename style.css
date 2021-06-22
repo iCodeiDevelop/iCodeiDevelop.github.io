@@ -227,13 +227,9 @@ td .fa{
 #main-content-bottom {
 	background: #ffffff;
 	margin:0 auto;
-	width: 100%;
 }
 #main-content-bottom-center {
 	background: #111111;
-	margin:0 auto;
-	padding: 20px 20px 20px 20px;
-	width: 100%;
 	height: 100%;
 	float: center;
 	}
