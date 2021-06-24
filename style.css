@@ -107,7 +107,7 @@ body {
 	font:italic 18px Script, Serif;
 	font-weight: bold;
 	font-weight: bold;
-	color: #225675;
+	color: #ffffff;
 	background-color: #ec692d;
 	padding: 15px;
 	border: 2px solid #ec692d;
@@ -118,8 +118,8 @@ body {
 
 #portfolio:hover{
 	
-	background: rgb(236,105,45, 0.7);
-	border-color: rgb(236,105,45, 0.7);
+	background:  #225675;
+	border-color:  #225675;
 
 }
 
